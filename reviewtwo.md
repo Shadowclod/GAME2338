@@ -7,7 +7,7 @@ Papers, Please
 https://store.steampowered.com/app/239030/Papers_Please/
 
 ### Rating
-This game gets a 5 out of 5
+This game gets 5 out of 5 Stars
 
 ## Summary
 Papers, Please is a simulator indie game where you play as a border checkpoint officer in a fictional Eastern Europe country called Arstotzka. In the game, your job is to review each immigrant and returning citizens passports and paperwork to make sure they have everything needed to go pass the border. After each day, you will be payed a certain amount based on your performance and you can use the money to buy food, heat or other thing for your family as you have to take care of them.
