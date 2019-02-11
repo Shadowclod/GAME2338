@@ -10,7 +10,7 @@ https://store.steampowered.com/app/314660/Oddworld_New_n_Tasty/
 I give this game a 4 out of 5 stars.
 
 ## Summary
- Oddworld: New ‘n’ Tasty is a side scrolling platform puzzle game where players take the role of Abe, a worker at a meat factory that have to escape and discover his destiny. In the game, the player has to go through different areas of the factory and different areas of the world outside the factory as well. Each area will have different challenges to them such as special platforms, guards and even traps and it is up to the player how to get pass them.
+ Oddworld: New ‘n’ Tasty is a side scrolling platform puzzle game where players take the role of Abe, a worker at a meat factory that have to escape and discover his destiny. In the game, the player has to go through different areas of the factory and different areas of the world outside the factory as well. Each area will have different challenges to them such as special platforms, guards and even traps and it is up to the player figure out how to get pass them.
  
 The player will have different powers to use to help solve some the challenges in the game.  The powers are telepathy based powers which the player can use to read hidden messages and possessing enemies. The messages will sometimes give you hits on the upcoming area or even give you a heads up on what enemies or traps will come up in a future area as well. Possessing an enemy will allow the player to use and control their abilities such as using their weapons against other threats or simply disable traps or obstacles.
 
