@@ -1,16 +1,16 @@
-# Game Review for Mercenary Kings
+# Game Review for Mercenary Kings: Reloaded Edition
 
 ## Details
 
 ### Game Title
-Mercenary Kings
+Mercenary Kings: Reloaded Edition
 https://store.steampowered.com/app/218820/Mercenary_Kings_Reloaded_Edition/
 
 ### Rating
 I give this game 4 out of 5 stars.
 
 ## Summary
-Mercenary Kings is a run ‘n gun platformer game where player can take the role of a mercenary king or empress and have to stop a fearsome force known as CLAW and save the world. In the game, player will be able to do traditional movements like jump, crouch, roll and also shoot in multiple directions and can use a melee weapons for short range attacks. The game will have some RPG elements such as weapon stats and a level up system.
+Mercenary Kings is a run ‘n gun platformer game where player can take the role of four mercenarys and the main objective is to stop a fearsome force known as CLAW and save the world. In the game, player will be able to do traditional movements like jump, crouch, roll and also shoot in multiple directions and can use a melee weapons for short range attacks. The game will have some RPG elements such as weapon stats and a level up system.
 
 There are over 100 missions in the game that will contain a variety of enemies, bosses and locations. The objectives of each mission are different as they can be hostage rescues, target eliminations or boss battles. After each mission, the player will be able to earn points to level up their rank which can unlock more challenging mission, weapons and increase their health.
 
