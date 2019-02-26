@@ -1,7 +1,7 @@
-# Playtest for [Game Title]
+# Playtest for [Gone Home]
 
-* Game Publisher
-* Game Rating
+* Midnight City
+* Game Rating : M
 * [Game Title Website](http://example.com)
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
