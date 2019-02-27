@@ -8,13 +8,13 @@
 > _Answer:_ The rules were understandable as the game show the controls and objective when the player starts a new game and also during the game.
 
 **Question:** During gameplay did you notice anything that shouldn't be in the game or could be removed and it wouldn't effect game play?
-> _Answer:_ There was nothing that didn't effect the gameplay.
+> _Answer:_ There was nothing that was out of place and didn't effect the gameplay.
 
 **Question:** Is this game balanced? If not, what is the target audience for this game based on that imbalance?
-> _Answer:_ The game was not balanced as the target audience is for player that like simulators and narrative games.
+> _Answer:_ The game was not balanced as the target audience is for players that like simulators and narrative games.
 
 **Question:** Does the timing of this game appear to be about right for this type of game?
-> _Answer:_ The timing was right as you are taking your own time to explore.
+> _Answer:_ The timing was short as exploring everything can take about five to six hours.
 
 **Question:** During gameplay did the mechanics and theme go together and reinforce each other?
 > _Answer:_ They did go together as you are mostly walking around a house and inspecting objects.
