@@ -1,4 +1,4 @@
-# Playtest for [Gone Home]
+# Playtest for Gone Home
 
 * Midnight City
 * Game Rating : M
