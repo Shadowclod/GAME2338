@@ -11,7 +11,7 @@
 > _Answer:_ There was nothing that was out of place and didn't effect the gameplay.
 
 **Question:** Is this game balanced? If not, what is the target audience for this game based on that imbalance?
-> _Answer:_ The game was not balanced as the target audience is for players that like simulators and narrative games.
+> _Answer:_ The game is balanced but the target audience it aims for is players that like simulators and narrative games.
 
 **Question:** Does the timing of this game appear to be about right for this type of game?
 > _Answer:_ The timing was short as exploring everything can take about five to six hours.
@@ -23,4 +23,4 @@
 > _Answer:_ I did have fun as I wanted to explore and find objects.
 
 **Question:** During gameplay what problems or issues seemed to happen and how did you get them to reoccur?
-> _Answer:_ One of the issues I find was that if you increase the camera rotation speed and return to the game, the camera will move around on it own.
+> _Answer:_ One of the issues I find was that if you increase the camera rotation speed to max and return to the game, the camera will move around on it own.
