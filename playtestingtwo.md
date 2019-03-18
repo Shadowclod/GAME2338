@@ -1,6 +1,6 @@
-# Playtest for [Game Title]
+# Playtest for [To The Moon]
 
-* Game Publisher
+* Freebird Games
 * Game Rating
 * [Game Title Website](http://example.com)
 
