@@ -1,7 +1,7 @@
-# Playtest for [Game Title]
+# Playtest for [Game Dev Tycoon]
 
-* Game Publisher
-* Game Rating
+* Greenheart Games
+* Game Rating: E
 * [Game Title Website](http://example.com)
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
