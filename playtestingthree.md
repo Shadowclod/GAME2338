@@ -2,10 +2,10 @@
 
 * Greenheart Games
 * Game Rating: E
-* [Game Title Website](http://example.com)
+* [https://www.greenheartgames.com/app/game-dev-tycoon/]
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
-> _Answer:_ Your answer here
+> _Answer:_ The rules were understandable
 
 **Question:** During gameplay did you notice anything that shouldn't be in the game or could be removed and it wouldn't effect game play?
 > _Answer:_ Your answer here
