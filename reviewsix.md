@@ -4,6 +4,7 @@
 
 ### Game Title
 Guacamelee! Super Trubo Championship Edition
+
 https://store.steampowered.com/app/275390/Guacamelee_Super_Turbo_Championship_Edition/
 
 ### Rating
