@@ -1,5 +1,5 @@
 ## Selenium
-_**Developer**_ 
+**Developer 
 This tool was developed by ThoughtWorks.
 **Features**
 It is an automated tool that is compatible with web tools as it is open source.
