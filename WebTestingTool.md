@@ -25,7 +25,7 @@ It can measure and analyze the performance of web application such as user traff
 It can be used to simulate heavy load on a server or group of servers to test overall performance.
 
 ## Ranorex Studio
-**Develiper**
+**Developer**
 
 This tool was developed by Ranorex GmbH.
 
