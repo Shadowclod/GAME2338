@@ -1,6 +1,7 @@
 ## Selenium
->_**Developer:**
+**Developer** 
 This tool was developed by ThoughtWorks.
+**Features**
 It is an automated tool that is compatible with web tools as it is open source.
 It supports all programming languages such as Python, PHP and Java.
 The tool does test cases as it has easy to use extension and records users’ actions in the browser.
