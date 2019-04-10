@@ -12,12 +12,27 @@ It supports all programming languages such as Python, PHP and Java.
 The tool does test cases as it has easy to use extension and records users’ actions in the browser.
 
 ## Apache JMeter
+**Developer**
+
 This tool was developed by Apache Software Foundation.
+
+**Features**
+
 It is a pure Java open source tool.
+
 It can measure and analyze the performance of web application such as user traffic.
+
 It can be used to simulate heavy load on a server or group of servers to test overall performance.
+
 ## Ranorex Studio
+**Develiper**
+
 This tool was developed by Ranorex GmbH.
+
+**Features**
+
 It can track and analyze UI elements of desktop, web and mobile application.
+
 It is an automated tool that is supported with its own web tools.
+
 It uses standard programming languages such as C#, Java and VB.NET.
