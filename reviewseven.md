@@ -18,7 +18,7 @@ One of the important features of the game is that the player can used their own 
 
 
 ## Final Thoughts
-I like this about the game but didn't like this particular feature. This should be at a minimum of one paragraph.
+Audiosurf may look like a simple music game but it has its own features that makes it unique. What makes it unique is that the game lets the player use their own music and gives them a special track that fits the speed and rhythm of the song. This feature is what makes players want to continue playing to see if they can make it through their favorite songs wither its fast paced or slow and steady. I recommend this game to players that like music or rhythm games with a challenge to it.
 
 ## Additional Information
 http://www.audio-surf.com/
