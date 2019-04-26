@@ -1,0 +1,198 @@
+{
+  "id": "825cf05a-2c86-4eb5-b7b3-8a092cf3f7ba",
+  "version": "2.0",
+  "name": "Christopher De Leon_Selenium Test",
+  "url": "https://www.polygon.com",
+  "tests": [{
+    "id": "9af2df1c-01e6-48c5-9c31-1f909d7abcfe",
+    "name": "Test Demo",
+    "commands": [{
+      "id": "74853a49-699f-4cbd-9eb4-8e2106af6281",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "402b60a7-20d8-47c2-8f7b-4304b3113c4a",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1319x691",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c9ab9258-c52d-4efe-a41f-a33d46fb47f1",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.c-showcase-eight-up__entry:nth-child(1) > .c-entry-box--compact__image-wrapper",
+      "targets": [
+        ["css=.c-showcase-eight-up__entry:nth-child(1) > .c-entry-box--compact__image-wrapper", "css:finder"],
+        ["xpath=//a[contains(@href, 'https://www.polygon.com/2019/4/25/18516662/avengers-endgame-iron-man-captain-america-hulk-thor-what-to-know')]", "xpath:href"],
+        ["xpath=//div[3]/div/div/div/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "5b354be0-2322-44c9-b2bd-f8b9b8ad287b",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "css=.c-showcase-eight-up__entry:nth-child(1) > .c-entry-box--compact__image-wrapper",
+      "targets": [
+        ["css=.c-showcase-eight-up__entry:nth-child(1) > .c-entry-box--compact__image-wrapper", "css:finder"],
+        ["xpath=//a[contains(@href, 'https://www.polygon.com/2019/4/25/18516662/avengers-endgame-iron-man-captain-america-hulk-thor-what-to-know')]", "xpath:href"],
+        ["xpath=//div[3]/div/div/div/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "0dc65fa9-be77-4950-b55d-8cd28a463287",
+      "comment": "",
+      "command": "click",
+      "target": "css=.c-entry-box--compact--feature:nth-child(2) img",
+      "targets": [
+        ["css=.c-entry-box--compact--feature:nth-child(2) img", "css:finder"],
+        ["xpath=//img[contains(@src,'https://cdn.vox-cdn.com/thumbor/2hR8KmfSkh4BFjqud0fLfXyyRr4=/0x0:1200x675/1200x1800/filters:focal(504x242:696x434)/cdn.vox-cdn.com/uploads/chorus_image/image/63671809/cobra_kai_season_2_william_zabka_ralph_macchio_martin_kove.0.jpg')]", "xpath:img"],
+        ["xpath=//div[5]/div/div/div[2]/a/picture/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "92417086-56cf-4d89-90e2-c579ce4fb783",
+      "comment": "",
+      "command": "click",
+      "target": "css=#K87suo em",
+      "targets": [
+        ["css=#K87suo em", "css:finder"],
+        ["xpath=//p[@id='K87suo']/a/em", "xpath:idRelative"],
+        ["xpath=//p[3]/a/em", "xpath:position"],
+        ["xpath=//em[contains(.,'Cobra Kai ')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "228cd977-b8a2-4765-bc29-997f74b8d5e5",
+      "comment": "",
+      "command": "click",
+      "target": "css=.c-entry-hero__logo .a:nth-child(6)",
+      "targets": [
+        ["css=.c-entry-hero__logo .a:nth-child(6)", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "bd5c1b34-7c70-4c6d-ae14-615b47784d8a",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.newsletter_signup",
+      "targets": [
+        ["css=.newsletter_signup", "css:finder"],
+        ["xpath=//a[contains(@href, '/pages/newsletter')]", "xpath:href"],
+        ["xpath=//li[4]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "0eca66ca-0c81-4d98-b7c2-bfd468b1e174",
+      "comment": "",
+      "command": "click",
+      "target": "css=.c-global-header__search-trigger",
+      "targets": [
+        ["css=.c-global-header__search-trigger", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "8281f298-f71d-4c58-8d24-fafe3e353a61",
+      "comment": "",
+      "command": "click",
+      "target": "css=.c-global-header__search-trigger",
+      "targets": [
+        ["css=.c-global-header__search-trigger", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "1211b944-7189-4ea0-9d52-085ecb08bfe8",
+      "comment": "",
+      "command": "click",
+      "target": "css=.c-global-header__search-trigger",
+      "targets": [
+        ["css=.c-global-header__search-trigger", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "e7c4fc57-ef2d-4cc4-b5df-8a6a0690ddbf",
+      "comment": "",
+      "command": "type",
+      "target": "name=q",
+      "targets": [
+        ["name=q", "name"],
+        ["css=.p-input-header__input", "css:finder"],
+        ["xpath=//input[@name='q']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "Marvel"
+    }, {
+      "id": "548abc75-e3ae-4dbb-9b78-fd44c238a194",
+      "comment": "",
+      "command": "sendKeys",
+      "target": "name=q",
+      "targets": [
+        ["name=q", "name"],
+        ["css=.p-input-header__input", "css:finder"],
+        ["xpath=//input[@name='q']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "${KEY_ENTER}"
+    }, {
+      "id": "b78c3b84-44eb-407a-829a-6e96935d8d1d",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=How do Avengers: Infinity War and Endgame end in the comics?",
+      "targets": [
+        ["linkText=How do Avengers: Infinity War and Endgame end in the comics?", "linkText"],
+        ["css=.c-compact-river__entry:nth-child(2) .c-entry-box--compact__title > a", "css:finder"],
+        ["xpath=//a[contains(text(),'How do Avengers: Infinity War and Endgame end in the comics?')]", "xpath:link"],
+        ["xpath=(//a[contains(@href, 'https://www.polygon.com/2018/5/1/17302206/avengers-endgame-infinity-war-after-marvel-comics')])[2]", "xpath:href"],
+        ["xpath=//div[2]/div/div/h2/a", "xpath:position"],
+        ["xpath=//a[contains(.,'How do Avengers: Infinity War and Endgame end in the comics?')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "d0b2d952-93ee-425d-ad8f-30279230fd9e",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,8526)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0793a909-1f03-400c-bf66-5bc9bd7cad9d",
+      "comment": "",
+      "command": "click",
+      "target": "css=.c-recirc-module__block:nth-child(1) > .c-recirc-module__link",
+      "targets": [
+        ["css=.c-recirc-module__block:nth-child(1) > .c-recirc-module__link", "css:finder"],
+        ["xpath=//a[contains(@href, 'https://www.polygon.com/game-of-thrones/2019/4/21/18510136/game-of-thrones-bran-stark-night-king-three-eyed-raven-history-season-8-episode-2')]", "xpath:href"],
+        ["xpath=//div[4]/div/div/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "af0aa3c2-01b8-40ab-a00c-0a2377d217c9",
+      "comment": "",
+      "command": "click",
+      "target": "css=.c-global-header__logo-large > svg",
+      "targets": [
+        ["css=.c-global-header__logo-large > svg", "css:finder"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "fe715487-39a8-41d5-82bf-f416ad481ceb",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["9af2df1c-01e6-48c5-9c31-1f909d7abcfe"]
+  }],
+  "urls": ["https://www.polygon.com/"],
+  "plugins": []
+}
